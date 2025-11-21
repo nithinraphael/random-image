@@ -2,9 +2,9 @@
 
 A minimal Flutter app that fetches a random image from an API, displays it in a polished UI, and caches previously loaded images for instant reloads.
 
-<img width="635" height="983" alt="image" src="https://github.com/user-attachments/assets/b2215acc-1a35-42ea-ae1c-9b588b2afb05" />
-
 ## Demo
+
+https://github.com/user-attachments/assets/1f555382-e512-42bf-8d89-eada51b8d28c
 
 ---
 
@@ -25,9 +25,6 @@ flutter pub get
 flutter run
 ```
 
-## Demo
-
-https://github.com/user-attachments/assets/1f555382-e512-42bf-8d89-eada51b8d28c
 
 
 
