@@ -16,20 +16,3 @@ https://github.com/user-attachments/assets/1f555382-e512-42bf-8d89-eada51b8d28c
 * **Uses Signals** for simple global state
 * **Smooth UI** with fade-in and adaptive background
 
----
-
-## Running the App
-
-```sh
-flutter pub get
-flutter run
-```
-
-
-
-
-
----
-
-If you'd like, I can expand this with installation steps, architecture, screenshots, or a demo GIF.
-
